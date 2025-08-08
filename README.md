@@ -7,13 +7,13 @@ Welcome to my GitHub profile! I'm a Full Stack Developer passionate about techno
 ### 🔧 Technical Skills
 
 #### 🚀 Frontend
-- **Languages:** JavaScript, HTML, CSS
-- **Frameworks:** Tailwind CSS
+- **Languages:** JavaScript, HTML, CSS, React
+- **Frameworks:** Tailwind CSS, Next.js
 - **Tools:** Git, GitHub
 
 #### 🛠 Backend
 - **Languages:** C++, Bash
-- **Databases:** MySQL
+- **Databases:** MySQL, NoSql
 
 #### 🎨 Graphic Design
 - **Software:** Adobe Illustrator, Adobe Photoshop, Adobe Premiere, After Effects
